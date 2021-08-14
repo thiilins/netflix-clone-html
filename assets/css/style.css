@@ -16,7 +16,6 @@
   font-family: "Netflix Sans", sans-serif;
   text-decoration: none;
   list-style: none;
-  color: var(--white-color);
 }
 html {
   scroll-behavior: smooth;
