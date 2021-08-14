@@ -304,3 +304,6 @@ body {
   font-size: 1.5rem;
   color: var(--offset-color);
 }
+.ft-country a {
+  color: var(--offset-color);
+}
