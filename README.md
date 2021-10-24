@@ -23,7 +23,7 @@
 <hr>
 
 <p align="center">
-  <a href="#dart-sobre">Sobre</a> &#xa0;  | &#xa0;
+  <a href="#camera-screenshot">Screenshot</a> &#xa0; | &#xa0;<a href="#dart-sobre">Sobre</a> &#xa0;  | &#xa0;
   <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
   <a href="#memo-licença">Licença</a> &#xa0; | &#xa0;
   <a href="https://github.com/thiilins" target="_blank">Autor</a>
@@ -31,20 +31,36 @@
 
 <br>
 
+## :camera: Screenshot
+
+<br>
+<img src="./.github/screen1.png" alt="Netflix Clone Html" />
+<br><br>
+
 ## :dart: Sobre
 
+<br>
+
 Clone da landing page da NETFLIX com a finalidade de estudar/praticar HTML5 e CSS
+<br>
 
 ## :rocket: Tecnologias
+
+<br>
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - HTML
 - CSS
+  <br>
 
 ## :memo: Licença
 
+<br>
+
 Este projeto está sob licença MIT.
+<br>
+<br>
 
 Feito com :heart: por <a href="https://github.com/thiilins" target="_blank">Thiago Lins</a>
 
