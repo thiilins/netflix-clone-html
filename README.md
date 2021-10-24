@@ -8,11 +8,11 @@
 <h1 align="center"><strong>Netflix Clone</strong></h1>
 
 <p align="center">
-  <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/thiilins/netflix-clone-html?color=E50914">
+  <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/thiilins/netflix-clone-html?style=for-the-badge&color=E50914">
 
-  <img alt="Quantidade de linguagens utilizadas" src="https://img.shields.io/github/languages/count/thiilins/netflix-clone-html?color=E50914">
+  <img alt="Quantidade de linguagens utilizadas" src="https://img.shields.io/github/languages/count/thiilins/netflix-clone-html?style=for-the-badge&color=E50914">
 
-  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/thiilins/netflix-clone-html?color=E50914">
+  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/thiilins/netflix-clone-html?style=for-the-badge&color=E50914">
 
 </p>
 
@@ -50,8 +50,8 @@ Clone da landing page da NETFLIX com a finalidade de estudar/praticar HTML5 e CS
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- HTML
-- CSS
+![HTML5](https://img.shields.io/badge/-html5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
   <br>
 
 ## :memo: Licença
