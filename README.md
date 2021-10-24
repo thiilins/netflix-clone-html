@@ -5,8 +5,8 @@
 
 </div>
 
-<h1 align="center">Netflix Clone</h1>
-
+<h2 align="center"><strong>Netflix Clone</strong></h2>
+<hr>
 <p align="center">
   <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/thiilins/netflix-clone-html?color=E50914">
 
@@ -60,10 +60,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Este projeto está sob licença MIT.
 <br>
-<br>
+
+<hr>
+&#xa0;
 
 Feito com :heart: por <a href="https://github.com/thiilins" target="_blank">Thiago Lins</a>
 
-&#xa0;
-
-<a href="#top">Voltar para o topo</a>
+<div align="right"><a href="#top">(Voltar para o topo)</a></div>
