@@ -1,7 +1,7 @@
 <div align="center" id="top"> 
   <img src="./.github/app.gif" alt="Netflix Clone Html" />
 
-<a href="https://td-netflix-clone.surge.sh/">Demo</a>
+<a href="https://tgbr.site/netflix_clone_html">Demo</a>
 
 </div>
 
