@@ -5,7 +5,7 @@
 
 </div>
 
-<h1 align="center"><strong>Netflix Clone</strong></h1>
+<h1 align="center"><strong>Netflix Clone -  [Arquivado] </strong></h1>
 
 <p align="center">
   <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/thiilins/netflix-clone-html?style=for-the-badge&color=E50914">
